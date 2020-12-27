@@ -1,11 +1,11 @@
 
  Solution For Asignments 1 and 2
  
- Name                ID number
+ Name                          ID number
 
-Sudi Usman             1318
+Sudi Usman                      1318
 
-Kasu Urgecha           1232
+Kasu Urgecha                    1232
 
 Answers for multiple choice
 Assignment I

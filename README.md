@@ -1,6 +1,8 @@
 
  Solution For Asignments 1 and 2
+ 
  Name                ID number
+
 Sudi Usman             1318
 
 Kasu Urgecha           1232
